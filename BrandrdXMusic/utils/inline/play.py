@@ -68,13 +68,13 @@ def stream_markup_timer(_, vidid, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="🥀 ᴏᴡɴᴇʀ 🥀", url=f"https://t.me/ANURAGMOD"
+                text="🥀 ᴏᴡɴᴇʀ 🥀", url=f"https://t.me/Vip_chor"
             ),
             InlineKeyboardButton(
-                text="🥀 ᴄʜᴀᴛ 🥀", url=f"https://t.me/+o8Q98BM17W42NjRl"
+                text="🥀 ᴄʜᴀᴛ 🥀", url=f"https://t.me/+SFB9vAp52SAxZGE1"
             ),
         ],
-        [InlineKeyboardButton(text="+ADD ME TO YOUR GROUP+", url=f"https://t.me/ANURAG_MUSIC_1_BOT?startgroup=s&admin=delete_messages+manage_video_chats+pin_messages+invite_users")],
+        [InlineKeyboardButton(text="+ADD ME TO YOUR GROUP+", url=f"https://t.me/Jaanvi_music_robot?startgroup=s&admin=delete_messages+manage_video_chats+pin_messages+invite_users")],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
     ]
     return buttons
@@ -91,10 +91,10 @@ def stream_markup(_, videoid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="🥀 ᴏᴡɴᴇʀ 🥀", url=f"https://t.me/ANURAGMOD"
+                text="🥀 ᴏᴡɴᴇʀ 🥀", url=f"https://t.me/Vip_chor"
             ),
             InlineKeyboardButton(
-                text="🥀 ᴄʜᴀᴛ 🥀", url=f"https://t.me/+o8Q98BM17W42NjRl"
+                text="🥀 ᴄʜᴀᴛ 🥀", url=f"https://t.me/+SFB9vAp52SAxZGE1"
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -246,10 +246,10 @@ def stream_markup2(_, chat_id):
         ],
 [
             InlineKeyboardButton(
-                text="🥀 ᴏᴡɴᴇʀ 🥀", url=f"https://t.me/ANURAGMOD"
+                text="🥀 ᴏᴡɴᴇʀ 🥀", url=f"https://t.me/Vip_chor"
             ),
             InlineKeyboardButton(
-                text="🥀 ᴄʜᴀᴛ 🥀", url=f"https://t.me/+o8Q98BM17W42NjRl"
+                text="🥀 ᴄʜᴀᴛ 🥀", url=f"https://t.me/+SFB9vAp52SAxZGE1"
             ),
         ],
 
