@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-<a href="https://t.me/All_super_music"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/TEAM_CHOR"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 - <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [𝐓𝐄𝐀𝐌 𝐂𝐇𝐎𝐑](https://t.me/TEAM_CHOR)ғᴏʀ [𝐉𝐚𝐚𝐧𝐯𝐢 𝐌𝐮𝐬𝐢𝐜](https://t.me/TEAM_CHOR)_</b>
