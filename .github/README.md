@@ -1,5 +1,5 @@
 <h2 align="center">
-    jaanvi 𝐌ᥙsiᥴ [ ɴᴏ ᴀᴅʂ ] 🕊
+    𝐉𝐚𝐧𝐧𝐯𝐢 𝐌𝐮𝐬𝐢𝐜 [ ɴᴏ ᴀᴅʂ ] 🕊
 </h2>
 
 <h3 align="center">
