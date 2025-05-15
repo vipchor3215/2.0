@@ -23,9 +23,8 @@
 </h4>
 
 <p align="center">
-<a href="[[https://t.me/+o8Q98BM17W42NjRl](https://t.me/+v40WYcSPzpU2Y2Y1)](https://t.me/+v40WYcSPzpU2Y2Y1)"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/+v40WYcSPzpU2Y2Y1"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
-
 <p align="center">
 <a href="https://t.me/TEAM_CHOR"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
