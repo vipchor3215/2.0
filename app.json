@@ -1,7 +1,7 @@
 {
     "name": "˹ 𝐉𝐀𝐀𝐍𝐕𝐈 ♡ 𝐌𝐔𝐒𝐈𝐂˼♪࿐ [NO ADS]",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://te.legra.ph/file/62fa7c81c56c1ae31c844.jpg",
+    "logo": "https://files.catbox.moe/hz1qvh.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -38,7 +38,7 @@
         "required": true
       },
       "STRING_SESSION": {
-        "description": "A Pyrogram v2 String Session from @ANURAG_MUSIC_1_BOT on Telegram.",
+        "description": "A Pyrogram v2 String Session from @Jaanvi_music_robot on Telegram.",
         "value": "",
         "required": true
       },
