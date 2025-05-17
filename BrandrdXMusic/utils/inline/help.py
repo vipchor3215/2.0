@@ -7,7 +7,7 @@ from BrandrdXMusic import app
     
 
 def help_pannel(_, START: Union[bool, int] = None):
-    first = [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data=f"close")]
+    first = [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data=f"🍬 𝐂𝐋𝐎𝐒𝐄 🍬")]
     second = [
         InlineKeyboardButton(
             text=_["BACK_PAGE"],
