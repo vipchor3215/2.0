@@ -12,12 +12,12 @@ from BrandrdXMusic.utils.database import add_served_chat, get_assistant
 async def help(client: Client, message: Message):
     await message.reply_photo(
         photo=f"https://files.catbox.moe/hz1qvh.jpg",
-        caption=f"""🍁𝐂𝐋𝐈𝐂𝐊🥰𝐁𝐄𝐋𝐎𝐖💝𝐁𝐔𝐓𝐓𝐎𝐍✨𝐓𝐎🙊𝐆𝐄𝐓🌱𝐑𝐄𝐏𝐎🍁""",
+        caption=f"""🍁𝐂𝐋𝐈𝐂𝐊🍹𝐒𝐎𝐔𝐑𝐂𝐄🍹𝐁𝐔𝐓𝐓𝐎𝐍✨𝐓𝐎🙊𝐆𝐄𝐓🌱𝐑𝐄𝐏𝐎🍁""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "ƨσʋяcɛ", url=f"https://github.com/dilchorofficial/Jaanvimusic"
+                        "🍹𝐒𝐎𝐔𝐑𝐂𝐄🍹", url=f"https://github.com/dilchorofficial/Jaanvimusic"
                     )
                 ]
             ]
@@ -29,12 +29,12 @@ async def help(client: Client, message: Message):
 async def clones(client: Client, message: Message):
     await message.reply_photo(
         photo=f"https://files.catbox.moe/hz1qvh.jpg",
-        caption=f"""**🙂You Are Not Sudo User So You Are Not Allowed To Clone Me.**\n**😌Click Given Below Button And Host Manually Otherwise Contact Owner Or Sudo Users For Clone.**""",
+        caption=f"""**🙂You Are Not Sudo User So You Are Not Allowed To Clone Me.**\n**😌Click Given 🍹𝐒𝐎𝐔𝐑𝐂𝐄🍹 Button And Host Manually Otherwise Contact Owner Or Sudo Users For Clone.**""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "ƨσʋяcɛ", url=f"https://github.com/dilchorofficial/Jaanvimusic"
+                        "🍹𝐒𝐎𝐔𝐑𝐂𝐄🍹", url=f"https://github.com/dilchorofficial/Jaanvimusic"
                     )
                 ]
             ]
