@@ -94,7 +94,7 @@ async def greet_group(_, member: ChatMemberUpdated):
 ๏ 𝐌𝐀𝐃𝐄 𝐁𝐘 ➠ [ᴄʜᴏʀ](https://t.me/Vip_chor)
 ➖➖➖➖➖➖➖➖➖➖➖
 """,
-            reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(f"⦿ ᴀᴅᴅ ᴍᴇ ⦿", url=f"https://t.me/Jaanvi_music_robot?startgroup=true")]])
+            reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(f"🥂𝐀𝐃𝐃 𝐌𝐄🥂", url=f"https://t.me/Jaanvi_music_robot?startgroup=true")]])
         )
     except Exception as e:
         LOGGER.error(e)
