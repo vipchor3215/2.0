@@ -177,4 +177,4 @@ async def cancel_spam(client, message):
             spam_chats.remove(message.chat.id)
         except:
             pass
-        return await message.reply("👣 ANURAG 𝐒𝐇𝐀𝐘𝐀𝐑𝐈 𝐏𝐑𝐎𝐂𝐄𝐒𝐒 𝐒𝐓𝐎𝐏𝐏𝐄𝐃 💗")
+        return await message.reply("👣 𝗗꯭ɪʟ꯭c፝֟͠ʜ꯭𝛔ʀ꯭ 𝐒𝐇𝐀𝐘𝐀𝐑𝐈 𝐏𝐑𝐎𝐂𝐄𝐒𝐒 𝐒𝐓𝐎𝐏𝐏𝐄𝐃 💗")
