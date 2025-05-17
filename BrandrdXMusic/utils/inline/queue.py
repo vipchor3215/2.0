@@ -19,7 +19,7 @@ def queue_markup(
             ),
             InlineKeyboardButton(
                 text=_["CLOSE_BUTTON"],
-                callback_data="close",
+                callback_data="🍬 𝐂𝐋𝐎𝐒𝐄 🍬",
             ),
         ]
     ]
@@ -37,7 +37,7 @@ def queue_markup(
             ),
             InlineKeyboardButton(
                 text=_["CLOSE_BUTTON"],
-                callback_data="close",
+                callback_data="🍬 𝐂𝐋𝐎𝐒𝐄 🍬",
             ),
         ],
     ]
@@ -55,7 +55,7 @@ def queue_back_markup(_, CPLAY):
                 ),
                 InlineKeyboardButton(
                     text=_["CLOSE_BUTTON"],
-                    callback_data="close",
+                    callback_data="🍬 𝐂𝐋𝐎𝐒𝐄 🍬",
                 ),
             ]
         ]
@@ -79,7 +79,7 @@ def aq_markup(_, chat_id):
                 text="🥀 ꜱᴜᴘᴘᴏʀᴛ 🥀", url=f"https://t.me/+o8Q98BM17W42NjRl"
             ),
         ],
-        [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
+        [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="🍬 𝐂𝐋𝐎𝐒𝐄 🍬")],
     ]
     return buttons
 
