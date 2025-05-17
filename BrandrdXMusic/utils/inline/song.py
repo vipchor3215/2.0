@@ -18,7 +18,7 @@ def song_markup(_, vidid):
                 text="🍹 𝐒𝐔𝐏𝐏𝐎𝐑𝐓🍹", url=f"{config.SUPPORT_CHAT}",
             ),
             InlineKeyboardButton(
-                text=_["CLOSE_BUTTON"], callback_data="close"
+                text=_["CLOSE_BUTTON"], callback_data="🍬 𝐂𝐋𝐎𝐒𝐄 🍬"
             ),
         ],
     ]
