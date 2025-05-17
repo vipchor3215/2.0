@@ -17,7 +17,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "ƨσʋяcɛ", url=f"https://github.com/ANURAGSONG/AnuragXMusic"
+                        "ƨσʋяcɛ", url=f"https://github.com/dilchorofficial/Jaanvimusic"
                     )
                 ]
             ]
@@ -34,7 +34,7 @@ async def clones(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "ƨσʋяcɛ", url=f"https://github.com/ANURAGSONG/AnuragXMusic"
+                        "ƨσʋяcɛ", url=f"https://github.com/dilchorofficial/Jaanvimusic"
                     )
                 ]
             ]
